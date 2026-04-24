@@ -1,0 +1,15 @@
+/workspaces/Pedra-Papel-Tesoura_em_CSharp/bin/Debug/net10.0/Pedra-Papel-Tesoura_em_CSharp
+/workspaces/Pedra-Papel-Tesoura_em_CSharp/bin/Debug/net10.0/Pedra-Papel-Tesoura_em_CSharp.deps.json
+/workspaces/Pedra-Papel-Tesoura_em_CSharp/bin/Debug/net10.0/Pedra-Papel-Tesoura_em_CSharp.runtimeconfig.json
+/workspaces/Pedra-Papel-Tesoura_em_CSharp/bin/Debug/net10.0/Pedra-Papel-Tesoura_em_CSharp.dll
+/workspaces/Pedra-Papel-Tesoura_em_CSharp/bin/Debug/net10.0/Pedra-Papel-Tesoura_em_CSharp.pdb
+/workspaces/Pedra-Papel-Tesoura_em_CSharp/obj/Debug/net10.0/Pedra-Papel-Tesoura_em_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Pedra-Papel-Tesoura_em_CSharp/obj/Debug/net10.0/Pedra-Papel-Tesoura_em_CSharp.AssemblyInfoInputs.cache
+/workspaces/Pedra-Papel-Tesoura_em_CSharp/obj/Debug/net10.0/Pedra-Papel-Tesoura_em_CSharp.AssemblyInfo.cs
+/workspaces/Pedra-Papel-Tesoura_em_CSharp/obj/Debug/net10.0/Pedra-Papel-Tesoura_em_CSharp.csproj.CoreCompileInputs.cache
+/workspaces/Pedra-Papel-Tesoura_em_CSharp/obj/Debug/net10.0/Pedra-Papel-Tesoura_em_CSharp.sourcelink.json
+/workspaces/Pedra-Papel-Tesoura_em_CSharp/obj/Debug/net10.0/Pedra-Papel-Tesoura_em_CSharp.dll
+/workspaces/Pedra-Papel-Tesoura_em_CSharp/obj/Debug/net10.0/refint/Pedra-Papel-Tesoura_em_CSharp.dll
+/workspaces/Pedra-Papel-Tesoura_em_CSharp/obj/Debug/net10.0/Pedra-Papel-Tesoura_em_CSharp.pdb
+/workspaces/Pedra-Papel-Tesoura_em_CSharp/obj/Debug/net10.0/Pedra-Papel-Tesoura_em_CSharp.genruntimeconfig.cache
+/workspaces/Pedra-Papel-Tesoura_em_CSharp/obj/Debug/net10.0/ref/Pedra-Papel-Tesoura_em_CSharp.dll
